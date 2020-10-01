@@ -1,6 +1,6 @@
 # USAGE
 # python test.py --model liveness.model --le le.pickle --detector face_detector
-
+# very awesome project
 from imutils.video import VideoStream
 from keras.preprocessing.image import img_to_array
 from keras.models import load_model
